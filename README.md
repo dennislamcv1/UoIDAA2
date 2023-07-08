@@ -1,6 +1,10 @@
 # UoLDAA2
 ## Data Analytics Foundations for Accountancy II
 
+### Disclaimer: The course seems to be abandoned by the school as there were totally no support from student helpers before 2020.
+### I advise not to pay anything to take the course
+
+
 
 Welcome to Data Analytics Foundations for Accountancy II!  I'm excited to have you in the class and look forward to your contributions to the learning community.
 
